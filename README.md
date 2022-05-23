@@ -1,2 +1,4 @@
-# <*I am learning Java Programming*>
+# Java Basic Functions
+
+This repository contains basic functions of java programming language.
 
